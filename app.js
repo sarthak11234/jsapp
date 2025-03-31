@@ -2,6 +2,7 @@ document.querySelector('button').addEventListener('click', function (evt) {
     console.log(evt)
 })
 
+console.log("xxxxx");
 
 
 window.addEventListener('keydown', function (e) {
